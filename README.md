@@ -34,8 +34,8 @@ Mobile View:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MaqsudMallick/responsive-design-css-grid-project)
-- Live Site URL: [Add live site URL here](https://maqsudmallick.github.io/responsive-design-css-grid-project/)
+- Solution URL: [Click Here for Solution](https://github.com/MaqsudMallick/responsive-design-css-grid-project)
+- Live Site URL: [Click here to go to site](https://maqsudmallick.github.io/responsive-design-css-grid-project/)
 
 ## My process
 
