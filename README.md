@@ -24,15 +24,18 @@ Users should be able to:
 ### Screenshot
 
 Desktop View:
+
 ![](./screenshot-desktop.jpg)
-Mobile View
+
+Mobile View:
+
 ![](./screenshot-mob.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/MaqsudMallick/responsive-design-css-grid-project)
+- Live Site URL: [Add live site URL here](https://maqsudmallick.github.io/responsive-design-css-grid-project/)
 
 ## My process
 
